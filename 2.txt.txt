@@ -1,1 +1,2 @@
 second txt in master
+now in newBranch
